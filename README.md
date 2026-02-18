@@ -21,3 +21,9 @@ Read more [here](https://lastminuteengineers.com/ds3231-rtc-arduino-tutorial/)
 Install the **RTClib by Adafruit** via Arduino IDE Library Manager. 
 
 [Library documentation here](https://adafruit.github.io/RTClib/html/class_r_t_c___d_s1307.html)
+
+### Tutorial:
+
+[First RTC Test](https://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/understanding-the-code)
+
+https://newbiely.com/tutorials/arduino-nano/arduino-nano-rtc
