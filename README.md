@@ -24,6 +24,8 @@ Install the **RTClib by Adafruit** via Arduino IDE Library Manager.
 
 ### Tutorial:
 
-[First RTC Test](https://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/understanding-the-code)
+1. [First RTC Test](https://learn.adafruit.com/ds1307-real-time-clock-breakout-board-kit/understanding-the-code)
 
-https://newbiely.com/tutorials/arduino-nano/arduino-nano-rtc
+BONUS:
+
+[More examples to create time events here](https://newbiely.com/tutorials/arduino-nano/arduino-nano-rtc)
